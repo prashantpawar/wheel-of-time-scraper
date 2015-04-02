@@ -1,10 +1,11 @@
 {
   "name": "wheel-of-time-scraper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "commander": "^2.7.1"
+    "commander": "^2.7.1",
+    "glob": "^5.0.3"
   },
   "devDependencies": {
     "commander": "^2.7.1"
