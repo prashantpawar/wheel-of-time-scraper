@@ -1,0 +1,25 @@
+{
+  "name": "wheel-of-time-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.7.1"
+  },
+  "devDependencies": {
+    "commander": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://prashantpawar@github.com/prashantpawar/wheel-of-time-scraper.git"
+  },
+  "author": "Prashant Singh Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantpawar/wheel-of-time-scraper/issues"
+  },
+  "homepage": "https://github.com/prashantpawar/wheel-of-time-scraper"
+}
